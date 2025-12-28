@@ -16713,7 +16713,7 @@ vy.formToJSON = e => Dv(bv.isHTMLForm(e) ? new FormData(e) : e),
 vy.HttpStatusCode = gy,
 vy.default = vy;
 const yy = vy.create({
-    baseURL: "https://dreamrusttop.gamestores.app/api",
+    baseURL: "https://soloway.gamestores.app/api",
     withCredentials: !0
 });
 yy.interceptors.request.use((e => e)),
@@ -18887,7 +18887,7 @@ const mw = sw((e => ({
 }
 ))
   , Qw = [{
-    link: "https://vk.com/dreamrusttop",
+    link: "https://vk.com/soloway",
     icon: K.jsx("svg", {
         width: "32",
         height: "32",
@@ -18922,11 +18922,11 @@ const mw = sw((e => ({
             alt: "DreamRust Label",
             className: "navbar-brand"
         }), K.jsx("a", {
-            href: "https://dreamrusttop.gamestores.app/agreement",
+            href: "https://soloway.gamestores.app/agreement",
             className: "footer__link",
             children: "Пользовательское соглашение"
         }), K.jsx("a", {
-            href: "https://dreamrusttop.gamestores.app/privacy",
+            href: "https://soloway.gamestores.app/privacy",
             className: "footer__link",
             children: "Политика конфиденциальности"
         }), K.jsxs("div", {
@@ -20459,7 +20459,7 @@ const Jx = new (Dx.default = Kx.default)({
                 children: [K.jsx("div", {
                     className: "cart_empty__image",
                     children: K.jsx("img", {
-                        src: "https://s3.dreamrusttop.ru/dream/images/devil_r%201.png",
+                        src: "https://s3.soloway.ru/dream/images/devil_r%201.png",
                         alt: ""
                     })
                 }), K.jsx(Fb, {
